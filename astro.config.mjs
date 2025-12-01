@@ -13,4 +13,5 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: 'https://dantefxz.github.io/',
+  base: '/Portfolio/',
 });
