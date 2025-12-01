@@ -1,0 +1,14 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "include": [
+    ".astro/types.d.ts",
+    "**/*"
+, "../dantefxz.github.io/_astro", "../dantefxz.github.io/_astro"  ],
+  "exclude": [
+    "dist"
+  ],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
+  }
+}
